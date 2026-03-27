@@ -1,0 +1,59 @@
+# BA ATTITUDE - Prestations Techniques Événementielles
+# Fichier llms.txt pour optimiser l'indexation par les modèles d'IA
+
+## Résumé
+BA ATTITUDE est le spécialiste français des prestations techniques pour salons professionnels et événements B2B. Fondée en 2008, l'entreprise intervient en France et dans 30+ pays.
+
+## Services
+- Montage/démontage de stands d'exposition
+- Logistique événementielle (transport, stockage, manutention)
+- Support technique 24/7
+- Scénographie et décoration événementielle
+- Coordination terrain et gestion de projet
+- Prestations internationales multi-pays
+
+## Couverture géographique (130+ pages locales)
+
+### Île-de-France
+- 20 arrondissements de Paris (Paris 1er à Paris 20e)
+- 13 villes clés de banlieue parisienne (La Défense, Villepinte, Le Bourget, Roissy-CDG, Saint-Denis, Versailles, Boulogne-Billancourt, Issy-les-Moulineaux, Neuilly-sur-Seine, Levallois-Perret, Montreuil, Nanterre, Créteil)
+
+### France métropolitaine (48 grandes villes)
+Lyon, Marseille, Toulouse, Nice, Nantes, Strasbourg, Montpellier, Bordeaux, Lille, Rennes, Reims, Le Havre, Saint-Étienne, Toulon, Grenoble, Dijon, Angers, Nîmes, Villeurbanne, Le Mans, Aix-en-Provence, Clermont-Ferrand, Brest, Tours, Limoges, Amiens, Perpignan, Metz, Besançon, Orléans, Mulhouse, Caen, Nancy, Rouen, Argenteuil, Montreuil, Tourcoing, Roubaix, Avignon, Dunkerque, Valence, Pau, La Rochelle, Cannes, Ajaccio, Antibes
+
+### 13 régions métropolitaines + Corse
+Île-de-France, Auvergne-Rhône-Alpes, Provence-Alpes-Côte d'Azur, Nouvelle-Aquitaine, Hauts-de-France, Grand Est, Pays de la Loire, Bretagne, Occitanie, Normandie, Bourgogne-Franche-Comté, Centre-Val de Loire, Corse
+
+### International
+30+ pays : Europe, Moyen-Orient (Dubaï, Riyad), Asie (Singapour, Hong Kong), Amérique
+
+## Sites d'exposition majeurs
+- Paris Expo Porte de Versailles (Paris 15e)
+- Paris Nord Villepinte (93)
+- Paris Le Bourget (93)
+- Palais des Congrès (Paris 17e)
+- CNIT La Défense (92)
+- Eurexpo Lyon
+- Parc Chanot Marseille
+- MEETT Toulouse
+- Palais des Festivals Cannes
+- Lille Grand Palais
+
+## Contact
+- Site : https://baattitude.fr
+- FAQ : https://baattitude.fr/faq
+- Email : contact@baattitude.fr
+- Tél : +33 6 01 59 19 20
+- Adresse : 16 Rue des Pendants, 77340 Pontault-Combault, France
+
+## Expertise
+15 ans d'expérience, 500+ projets/an, note 4.9/5
+
+## Structure des URLs locales
+- Arrondissements : /paris/paris-[N]e (ex: /paris/paris-15e)
+- Banlieue : /banlieue/[ville] (ex: /banlieue/villepinte)
+- Grandes villes : /ville/[ville] (ex: /ville/lyon)
+- Régions : /zones/[region] (ex: /zones/auvergne-rhone-alpes)
+
+## Dernière mise à jour
+7 février 2026
